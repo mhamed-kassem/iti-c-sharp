@@ -1,0 +1,13 @@
+D:\iti\C#\Project\Project\bin\Debug\Project.exe.config
+D:\iti\C#\Project\Project\bin\Debug\Project.exe
+D:\iti\C#\Project\Project\bin\Debug\Project.pdb
+D:\iti\C#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\iti\C#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\iti\C#\Project\Project\obj\Debug\Project.LoginControl.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\iti\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\iti\C#\Project\Project\obj\Debug\Project.exe
+D:\iti\C#\Project\Project\obj\Debug\Project.pdb
+D:\iti\C#\Project\Project\obj\Debug\Project.CustomButton.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.Form1.resources
