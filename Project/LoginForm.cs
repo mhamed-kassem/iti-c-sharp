@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Project
 {
-    public partial class LoginControl : UserControl
+    public partial class LoginForm : Form
     {
-        public LoginControl()
+        public LoginForm()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
