@@ -11,3 +11,7 @@ D:\iti\C#\Project\Project\obj\Debug\Project.exe
 D:\iti\C#\Project\Project\obj\Debug\Project.pdb
 D:\iti\C#\Project\Project\obj\Debug\Project.CustomButton.resources
 D:\iti\C#\Project\Project\obj\Debug\Project.Form1.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.Dashboard.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.LoginForm.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.ProductControl.resources
+D:\iti\C#\Project\Project\obj\Debug\Project.SupplierControl.resources
