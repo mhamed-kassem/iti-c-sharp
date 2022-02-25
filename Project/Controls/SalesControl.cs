@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project
+namespace Project.Controls
 {
-    public partial class ProductControl : UserControl
+    public partial class SalesControl : UserControl
     {
-        public ProductControl()
+        public SalesControl()
         {
             InitializeComponent();
         }
 
-        private void DescBox_TextChanged(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

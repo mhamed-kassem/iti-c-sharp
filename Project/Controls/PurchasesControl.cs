@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project
+namespace Project.Controls
 {
-    public partial class SupplierControl : UserControl
+    public partial class PurchasesControl : UserControl
     {
-        public SupplierControl()
+        public PurchasesControl()
         {
             InitializeComponent();
         }
